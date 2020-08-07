@@ -36,4 +36,9 @@ No Activity tracked this Week
 #### 最近课程
 
 <!-- SYL:START -->
+- [楼+ 之深度学习实战](https://lanqiao.cn/courses/2617)
+- [楼+ 之机器学习实战](https://lanqiao.cn/courses/2616)
+- [楼+ 之数据分析与挖掘实战](https://lanqiao.cn/courses/2615)
+- [楼+之机器学习实战第 15 期](https://lanqiao.cn/courses/2586)
+- [楼+之深度学习实战第 7 期](https://lanqiao.cn/courses/2506)
 <!-- SYL:END -->
