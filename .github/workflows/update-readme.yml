@@ -1,8 +1,7 @@
-name: Latest blog post workflow
+name: Update README
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,3 +14,10 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://huhuhang.com/feed"
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
