@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📝 **Blog posts**
+#### 本周数据
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### 最新文章
+
 <!-- BLOG-POST-LIST:START -->
 - [Apps 精选 N127：PliimPRO](http://huhuhang.com/post/product-hunt/product-hunt-n127)
 - [Apps 精选 N126：Ulysses 20, Pixelmator Pro 1.7](http://huhuhang.com/post/product-hunt/product-hunt-n126)
