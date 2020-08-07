@@ -29,8 +29,6 @@ No Activity tracked this Week
 - [Apps 精选 N127：PliimPRO](http://huhuhang.com/post/product-hunt/product-hunt-n127)
 - [Apps 精选 N126：Ulysses 20, Pixelmator Pro 1.7](http://huhuhang.com/post/product-hunt/product-hunt-n126)
 - [Apps 精选 N125：Mailbrew Inbox](http://huhuhang.com/post/product-hunt/product-hunt-n125)
-- [Apps 精选 N124：Fluent Reader](http://huhuhang.com/post/product-hunt/product-hunt-n124)
-- [Apps 精选 N123：Meeter，Moment](http://huhuhang.com/post/product-hunt/product-hunt-n123)
 <!-- BLOG:END -->
 
 #### 最近课程
