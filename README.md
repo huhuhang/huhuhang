@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📝 **最新文章**
+📝 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
