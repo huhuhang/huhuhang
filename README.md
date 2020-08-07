@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 #### 本周数据
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### 最新文章
