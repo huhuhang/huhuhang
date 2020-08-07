@@ -12,8 +12,14 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: BLOG
           max_post_count: "5"
           feed_list: "https://huhuhang.com/feed"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: SYL
+          max_post_count: "5"
+          feed_list: "https://api.huhuhang.com/syl/feed/user_courses"
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
