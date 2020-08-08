@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       1 hr 2 mins     ███████████████████████░░   91.59 % 
+Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 <!--END_SECTION:waka-->
 
