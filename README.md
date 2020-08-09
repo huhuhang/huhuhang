@@ -1,4 +1,4 @@
-### 你好 👋
+### Hi，你好 👋
 
 <!--
 **huhuhang/huhuhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +42,5 @@ Bash       12 mins         █░░░░░░░░░░░░░░░░�
 - [楼+ 之机器学习实战](https://lanqiao.cn/courses/2616)
 - [楼+ 之数据分析与挖掘实战](https://lanqiao.cn/courses/2615)
 <!-- SYL:END -->
+
+✓ 数据由 [GitHub Action](https://github.com/huhuhang/huhuhang/actions) 自动更新。
