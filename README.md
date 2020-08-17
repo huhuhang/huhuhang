@@ -33,9 +33,9 @@ Bash       12 mins         ░░░░░░░░░░░░░░░░░�
 #### 最近文章
 
 <!-- BLOG:START -->
+- [Apps 精选 N129：Setapp 支持解锁 iOS 设备](http://huhuhang.com/post/product-hunt/product-hunt-n129)
 - [Apps 精选 N128：Noto 笔记](http://huhuhang.com/post/product-hunt/product-hunt-n128)
 - [Apps 精选 N127：PliimPRO](http://huhuhang.com/post/product-hunt/product-hunt-n127)
-- [Apps 精选 N126：Ulysses 20, Pixelmator Pro 1.7](http://huhuhang.com/post/product-hunt/product-hunt-n126)
 <!-- BLOG:END -->
 
 #### 最近课程
