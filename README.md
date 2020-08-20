@@ -41,9 +41,9 @@ Bash       1 min           ░░░░░░░░░░░░░░░░░�
 #### 最近课程
 
 <!-- SYL:START -->
-- [信用卡持卡人风险预测](https://lanqiao.cn/courses/2715)
 - [楼+ 之深度学习实战](https://lanqiao.cn/courses/2617)
 - [楼+ 之机器学习实战](https://lanqiao.cn/courses/2616)
+- [楼+ 之数据分析与挖掘实战](https://lanqiao.cn/courses/2615)
 <!-- SYL:END -->
 
 ###### ✓ 数据由 [GitHub Action](https://github.com/huhuhang/huhuhang/actions) 自动更新。
