@@ -15,9 +15,9 @@ Bash       1 min           ░░░░░░░░░░░░░░░░░�
 #### 最近文章
 
 <!-- BLOG:START -->
+- [Apps 精选 N130：简悦 2.0 阅读模式 + 标注系统 + 稍后读](http://huhuhang.com/post/product-hunt/product-hunt-n130)
 - [Apps 精选 N129：Setapp 支持解锁 iOS 设备](http://huhuhang.com/post/product-hunt/product-hunt-n129)
 - [Apps 精选 N128：Noto 笔记](http://huhuhang.com/post/product-hunt/product-hunt-n128)
-- [Apps 精选 N127：PliimPRO](http://huhuhang.com/post/product-hunt/product-hunt-n127)
 <!-- BLOG:END -->
 
 #### 最近课程
