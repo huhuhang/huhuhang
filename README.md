@@ -23,9 +23,9 @@ YAML       4 mins          ░░░░░░░░░░░░░░░░░�
 #### 最近课程
 
 <!-- SYL:START -->
+- [AWS Lambda 开发企业微信消息机器人](https://lanqiao.cn/courses/2868)
 - [楼+ 之深度学习实战](https://lanqiao.cn/courses/2617)
 - [楼+ 之机器学习实战](https://lanqiao.cn/courses/2616)
-- [楼+ 之数据分析与挖掘实战](https://lanqiao.cn/courses/2615)
 <!-- SYL:END -->
 
 ###### ✓ 数据由 [GitHub Action](https://github.com/huhuhang/huhuhang/actions) 自动更新。
