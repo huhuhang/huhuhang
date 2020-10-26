@@ -15,9 +15,9 @@ CSS        3 mins          ░░░░░░░░░░░░░░░░░�
 #### 最近文章
 
 <!-- BLOG:START -->
+- [Apps 精选 N137：Capslox，Photoshop](http://huhuhang.com/post/product-hunt/product-hunt-n137)
 - [Apps 精选 N136：Airport](http://huhuhang.com/post/product-hunt/product-hunt-n136)
 - [Apps 精选 N135：Disk Drill 4](http://huhuhang.com/post/product-hunt/product-hunt-n135)
-- [Apps 精选 N134：Todoist，OneWidget](http://huhuhang.com/post/product-hunt/product-hunt-n134)
 <!-- BLOG:END -->
 
 #### 最近课程
