@@ -15,9 +15,9 @@ Bash         7 mins          ▒░░░░░░░░░░░░░░░░
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N140：Pixelmator Pro 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n140)
 - [Apps 精选 N139：Bartender 4，Maipo 4](http://huhuhang.com/post/product-hunt/product-hunt-n139)
 - [Apps 精选 N138：Little Snitch，JSBox](http://huhuhang.com/post/product-hunt/product-hunt-n138)
-- [Apps 精选 N137：Capslox，Photoshop](http://huhuhang.com/post/product-hunt/product-hunt-n137)
 <!-- BLOG:END -->
 
 #### Courses
