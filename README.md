@@ -15,9 +15,9 @@ JSON       2 mins          ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N142：年度应用特辑](http://huhuhang.com/post/product-hunt/product-hunt-n142)
 - [Apps 精选 N141：VSCO 新增视频预设](http://huhuhang.com/post/product-hunt/product-hunt-n141)
 - [Apps 精选 N140：Pixelmator Pro 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n140)
-- [Apps 精选 N139：Bartender 4，Maipo 4](http://huhuhang.com/post/product-hunt/product-hunt-n139)
 <!-- BLOG:END -->
 
 #### Courses
