@@ -15,9 +15,9 @@ Markdown   4 mins          ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N144：Raycast 近期更新](http://huhuhang.com/post/product-hunt/product-hunt-n144)
 - [Apps 精选 N143：Raycast，Sorted](http://huhuhang.com/post/product-hunt/product-hunt-n143)
 - [Apps 精选 N142：年度应用特辑](http://huhuhang.com/post/product-hunt/product-hunt-n142)
-- [Apps 精选 N141：VSCO 新增视频预设](http://huhuhang.com/post/product-hunt/product-hunt-n141)
 <!-- BLOG:END -->
 
 #### Courses
