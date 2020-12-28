@@ -15,9 +15,9 @@ Bash       1 min           ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N145：Pixelmator Pro 2.0.2](http://huhuhang.com/post/product-hunt/product-hunt-n145)
 - [Apps 精选 N144：Raycast 近期更新](http://huhuhang.com/post/product-hunt/product-hunt-n144)
 - [Apps 精选 N143：Raycast，Sorted](http://huhuhang.com/post/product-hunt/product-hunt-n143)
-- [Apps 精选 N142：年度应用特辑](http://huhuhang.com/post/product-hunt/product-hunt-n142)
 <!-- BLOG:END -->
 
 #### Courses
