@@ -14,7 +14,7 @@ Python     1 min           ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
-- [Raycast 效率启动器脚本功能详解](http://huhuhang.com/post/sspai/64399)
+- [极具潜力的效率启动器 App，Raycast 脚本功能详解](http://huhuhang.com/post/sspai/64399)
 - [Apps 精选 N145：Pixelmator Pro 2.0.2](http://huhuhang.com/post/product-hunt/product-hunt-n145)
 - [Apps 精选 N144：Raycast 近期更新](http://huhuhang.com/post/product-hunt/product-hunt-n144)
 <!-- BLOG:END -->
