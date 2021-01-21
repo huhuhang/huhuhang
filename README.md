@@ -15,9 +15,9 @@ CSS        2 mins          ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N147：Eagle 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n147)
 - [无需记账，通过更新余额了解自己有「多少资产」](http://huhuhang.com/post/sspai/64506)
 - [Apps 精选 N146：Dato](http://huhuhang.com/post/product-hunt/product-hunt-n146)
-- [极具潜力的效率启动器 App，Raycast 脚本功能详解](http://huhuhang.com/post/sspai/64399)
 <!-- BLOG:END -->
 
 #### Courses
