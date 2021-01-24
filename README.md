@@ -15,9 +15,9 @@ CSS        2 mins          ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N148：HapiGo](http://huhuhang.com/post/product-hunt/product-hunt-n148)
 - [Apps 精选 N147：Eagle 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n147)
 - [无需记账，通过更新余额了解自己有「多少资产」](http://huhuhang.com/post/sspai/64506)
-- [Apps 精选 N146：Dato](http://huhuhang.com/post/product-hunt/product-hunt-n146)
 <!-- BLOG:END -->
 
 #### Courses
