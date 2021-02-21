@@ -25,7 +25,6 @@ JavaScript   18 mins         ███▒░░░░░░░░░░░░░
 <!-- SYL:START -->
 - [AWS Lambda 开发企业微信消息机器人](https://lanqiao.cn/courses/2868)
 - [楼+ 之深度学习实战](https://lanqiao.cn/courses/2617)
-- [楼+ 之机器学习实战](https://lanqiao.cn/courses/2616)
 <!-- SYL:END -->
 
 ###### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
