@@ -15,9 +15,9 @@ Text       6 mins          ▒░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N149：DarkModeBuddy](http://huhuhang.com/post/product-hunt/product-hunt-n149)
 - [走进微软成都 Office，聊一聊 Microsoft 365](http://huhuhang.com/post/sspai/65152)
 - [Apps 精选 N148：HapiGo](http://huhuhang.com/post/product-hunt/product-hunt-n148)
-- [Apps 精选 N147：Eagle 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n147)
 <!-- BLOG:END -->
 
 #### Courses
