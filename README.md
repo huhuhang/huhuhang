@@ -15,9 +15,9 @@ YAML       24 mins         █░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
-- [Apps 精选 N151：图图记账](http://huhuhang.com/post/product-hunt/product-hunt-n151)
-- [Apps 精选 N150：Coppice](http://huhuhang.com/post/product-hunt/product-hunt-n150)
-- [Apps 精选 N149：DarkModeBuddy](http://huhuhang.com/post/product-hunt/product-hunt-n149)
+- [Apps 精选 N151：图图记账](https://huhuhang.com/post/product-hunt/product-hunt-n151)
+- [Apps 精选 N150：Coppice](https://huhuhang.com/post/product-hunt/product-hunt-n150)
+- [Apps 精选 N149：DarkModeBuddy](https://huhuhang.com/post/product-hunt/product-hunt-n149)
 <!-- BLOG:END -->
 
 #### Courses
