@@ -15,9 +15,9 @@ JSON       15 mins         ▓░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Farbox 2：支持自部署和多站点的开源博客系统](https://huhuhang.com/post/sspai/65889)
 - [Apps 精选 N151：图图记账](https://huhuhang.com/post/product-hunt/product-hunt-n151)
 - [Apps 精选 N150：Coppice](https://huhuhang.com/post/product-hunt/product-hunt-n150)
-- [Apps 精选 N149：DarkModeBuddy](https://huhuhang.com/post/product-hunt/product-hunt-n149)
 <!-- BLOG:END -->
 
 #### Courses
