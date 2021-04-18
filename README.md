@@ -14,9 +14,9 @@ CSV        10 mins         ██░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N151：奇妙组件](https://huhuhang.com/post/product-hunt/product-hunt-n152)
 - [Farbox 2：支持自部署和多站点的开源博客系统](https://huhuhang.com/post/sspai/65889)
 - [Apps 精选 N151：图图记账](https://huhuhang.com/post/product-hunt/product-hunt-n151)
-- [Apps 精选 N150：Coppice](https://huhuhang.com/post/product-hunt/product-hunt-n150)
 <!-- BLOG:END -->
 
 #### Courses
