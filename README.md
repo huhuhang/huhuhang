@@ -4,7 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   33 mins         █████████████████████████   99.74 % 
+Markdown   1 hr 2 mins     ███████████████████░░░░░░   76.49 % 
+Jade       17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 % 
+CSS        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
