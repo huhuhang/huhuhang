@@ -15,9 +15,9 @@ CSS        26 mins         ▒░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N156：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n156)
 - [Apps 精选 N155：Varlens](https://huhuhang.com/post/product-hunt/product-hunt-n155)
 - [Apps 精选 N154：Infuse 7](https://huhuhang.com/post/product-hunt/product-hunt-n154)
-- [Apps 精选 N153：简悦](https://huhuhang.com/post/product-hunt/product-hunt-n153)
 <!-- BLOG:END -->
 
 #### Courses
