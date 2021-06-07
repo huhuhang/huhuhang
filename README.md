@@ -14,9 +14,9 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N157：Trakt](https://huhuhang.com/post/product-hunt/product-hunt-n157)
 - [Apps 精选 N156：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n156)
 - [Apps 精选 N155：Varlens](https://huhuhang.com/post/product-hunt/product-hunt-n155)
-- [Apps 精选 N154：Infuse 7](https://huhuhang.com/post/product-hunt/product-hunt-n154)
 <!-- BLOG:END -->
 
 #### Courses
