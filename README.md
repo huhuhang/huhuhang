@@ -15,9 +15,9 @@ sh         9 mins          ░░░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N161：NOMO RAW](https://huhuhang.com/post/product-hunt/product-hunt-n161)
 - [Apps 精选 N160：Tape](https://huhuhang.com/post/product-hunt/product-hunt-n160)
 - [Apps 精选 N159：Apple Design Award 2021](https://huhuhang.com/post/product-hunt/product-hunt-n159)
-- [Apps 精选 N158：Craft](https://huhuhang.com/post/product-hunt/product-hunt-n158)
 <!-- BLOG:END -->
 
 #### Courses
