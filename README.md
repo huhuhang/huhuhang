@@ -14,10 +14,10 @@ CSS      48 mins         █░░░░░░░░░░░░░░░░░�
 
 #### Articles
 
-<!-- BLOG:START -->- [Apps 精选 N164：Doppler](https://huhuhang.com/post/product-hunt/product-hunt-n164?ref=github)
+<!-- BLOG:START -->
+- [Apps 精选 N164：Doppler](https://huhuhang.com/post/product-hunt/product-hunt-n164?ref=github)
 - [Apps 精选 N163：CARROT Weather](https://huhuhang.com/post/product-hunt/product-hunt-n163?ref=github)
-- [Apps 精选 N162：Obsidian](https://huhuhang.com/post/product-hunt/product-hunt-n162?ref=github)
-<!-- BLOG:END -->
+- [Apps 精选 N162：Obsidian](https://huhuhang.com/post/product-hunt/product-hunt-n162?ref=github)<!-- BLOG:END -->
 
 #### Courses
 
