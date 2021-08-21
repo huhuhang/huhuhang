@@ -22,9 +22,9 @@ CSS        2 mins          ▒░░░░░░░░░░░░░░░░�
 #### Courses
 
 <!-- SYL:START -->
+- [1 个实验学会线性回归](https://lanqiao.cn/courses/4855)
 - [AWS Lambda 开发企业微信消息机器人](https://lanqiao.cn/courses/2868)
 - [FAST.AI 深度学习实践课程](https://lanqiao.cn/courses/1445)
-- [Ghost 3 搭建个人博客网站](https://lanqiao.cn/courses/1439)
 <!-- SYL:END -->
 
 ###### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
