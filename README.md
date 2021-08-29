@@ -15,9 +15,9 @@ YAML     38 mins         ██▓░░░░░░░░░░░░░░░�
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N168：Gyroscope 4.14](https://huhuhang.com/post/product-hunt/product-hunt-n168?ref=github)
 - [Apps 精选 N167：V day](https://huhuhang.com/post/product-hunt/product-hunt-n167?ref=github)
-- [Apps 精选 N166：Things 3.14](https://huhuhang.com/post/product-hunt/product-hunt-n166?ref=github)
-- [Apps 精选 N165：MoneyWiz 2021](https://huhuhang.com/post/product-hunt/product-hunt-n165?ref=github)<!-- BLOG:END -->
+- [Apps 精选 N166：Things 3.14](https://huhuhang.com/post/product-hunt/product-hunt-n166?ref=github)<!-- BLOG:END -->
 
 #### Courses
 
