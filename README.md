@@ -15,9 +15,9 @@ Git Config   3 mins          ░░░░░░░░░░░░░░░░░
 #### Articles
 
 <!-- BLOG:START -->
-- [Apps 精选 N168：Gyroscope 4.14](https://huhuhang.com/post/product-hunt/product-hunt-n168?ref=github)
-- [Apps 精选 N167：V day](https://huhuhang.com/post/product-hunt/product-hunt-n167?ref=github)
-- [Apps 精选 N166：Things 3.14](https://huhuhang.com/post/product-hunt/product-hunt-n166?ref=github)<!-- BLOG:END -->
+- [Google Analytics 替代品，零成本和零门槛搭建 umami.is](https://huhuhang.com/post/sspai/68721?ref=github)
+- [Infuse 7：一款近乎完美的视频播放器](https://huhuhang.com/post/sspai/68706?ref=github)
+- [Apps 精选 N168：Gyroscope 4.14](https://huhuhang.com/post/product-hunt/product-hunt-n168?ref=github)<!-- BLOG:END -->
 
 #### Courses
 
