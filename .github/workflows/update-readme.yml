@@ -15,7 +15,7 @@ jobs:
           comment_tag_name: BLOG
           max_post_count: "3"
           feed_list: "https://huhuhang.com/feed"
-          template: "$newline- [$title]($url?ref=github)"
+          template: "$newline- [$title]($url?from=github)"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: SYL
