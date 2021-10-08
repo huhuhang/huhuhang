@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   8 hrs 5 mins    █████████████████████████   100.00 % 
+Jade       14 mins         █████████████████████████   99.45 % 
 ```
 <!--END_SECTION:waka-->
 
