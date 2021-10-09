@@ -4,7 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Jade       14 mins         █████████████████████████   99.45 % 
+Other      7 hrs 42 mins   ████████████████████████▒   96.98 % 
+Jade       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
