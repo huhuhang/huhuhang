@@ -13,9 +13,9 @@ sh           1 min           ▒░░░░░░░░░░░░░░░░
 #### Articles
 
 <!-- BLOG:START -->
+- [Apps 精选 N169：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n169?from=github)
 - [Google Analytics 替代品，零成本和零门槛搭建 umami.is](https://huhuhang.com/post/sspai/68721?from=github)
-- [Infuse 7：一款近乎完美的视频播放器](https://huhuhang.com/post/sspai/68706?from=github)
-- [Apps 精选 N168：Gyroscope 4.14](https://huhuhang.com/post/product-hunt/product-hunt-n168?from=github)<!-- BLOG:END -->
+- [Infuse 7：一款近乎完美的视频播放器](https://huhuhang.com/post/sspai/68706?from=github)<!-- BLOG:END -->
 
 #### Courses
 
