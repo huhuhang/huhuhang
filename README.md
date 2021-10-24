@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-sh         1 hr 7 mins     ██████████████████▓░░░░░░   74.64 % 
-Markdown   21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+sh   1 hr 7 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
