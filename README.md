@@ -1,6 +1,6 @@
-### Hi 👋
+### Hi there, I'm Hang. 👋
 
-#### Overview
+#### 👨🏻‍💻 Overview
 
 <!--START_SECTION:waka-->
 ```text
@@ -9,14 +9,14 @@ JavaScript   13 mins         ████░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Articles
+#### 📝 Articles
 
 <!-- BLOG:START -->
 - [Apps 精选 170：Prizmo 5.5](https://huhuhang.com/post/product-hunt/product-hunt-n170?from=github)
 - [Apps 精选 N169：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n169?from=github)
 - [Google Analytics 替代品，零成本和零门槛搭建 umami.is](https://huhuhang.com/post/sspai/68721?from=github)<!-- BLOG:END -->
 
-#### Courses
+#### 🔗 Courses
 
 <!-- SYL:START -->
 - [1 个实验学会线性回归](https://lanqiao.cn/courses/4855)
