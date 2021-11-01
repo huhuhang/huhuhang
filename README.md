@@ -12,9 +12,9 @@ Jade         9 mins          ██████████▒░░░░░░
 ### Articles 📝
 
 <!-- BLOG:START -->
-- [Apps 精选 170：Prizmo 5.5](https://huhuhang.com/post/product-hunt/product-hunt-n170?from=github)
-- [Apps 精选 N169：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n169?from=github)
-- [Google Analytics 替代品，零成本和零门槛搭建 umami.is](https://huhuhang.com/post/sspai/68721?from=github)<!-- BLOG:END -->
+- [HomePod mini 使用体验](https://huhuhang.com/post/apps/homepod-mini-comments?from=github)
+- [Apps 精选 N170：Prizmo 5.5](https://huhuhang.com/post/product-hunt/product-hunt-n170?from=github)
+- [Apps 精选 N169：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n169?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
