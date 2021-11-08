@@ -15,9 +15,9 @@ Markdown   7 mins          ▓░░░░░░░░░░░░░░░░�
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [Apps 精选 N171：简悦 API 2.0](https://huhuhang.com/post/product-hunt/product-hunt-n171?from=github)
 - [HomePod mini 使用体验](https://huhuhang.com/post/apps/homepod-mini-comments?from=github)
-- [Apps 精选 N170：Prizmo 5.5](https://huhuhang.com/post/product-hunt/product-hunt-n170?from=github)
-- [Apps 精选 N169：Notion](https://huhuhang.com/post/product-hunt/product-hunt-n169?from=github)<!-- BLOG:END -->
+- [Apps 精选 N170：Prizmo 5.5](https://huhuhang.com/post/product-hunt/product-hunt-n170?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
