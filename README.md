@@ -15,9 +15,9 @@ CSS          28 mins         ██▓░░░░░░░░░░░░░░
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [Apps 精选 N173：Quit All](http://huhuhang.com/post/product-hunt/product-hunt-n173?from=github)
 - [Apps 精选 N172：Raycast 推出官方扩展商店](http://huhuhang.com/post/product-hunt/product-hunt-n172?from=github)
-- [Apps 精选 N171：简悦 API 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n171?from=github)
-- [HomePod mini 使用体验](http://huhuhang.com/post/apps/homepod-mini-comments?from=github)<!-- BLOG:END -->
+- [Apps 精选 N171：简悦 API 2.0](http://huhuhang.com/post/product-hunt/product-hunt-n171?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
