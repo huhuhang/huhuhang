@@ -14,9 +14,9 @@ JavaScript   33 mins         ██▒░░░░░░░░░░░░░░
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [Apps 精选 N174：Pixelmator Pro 2.3](https://huhuhang.com/post/product-hunt/product-hunt-n174?from=github)
 - [Apps 精选 N173：Quit All](https://huhuhang.com/post/product-hunt/product-hunt-n173?from=github)
-- [Apps 精选 N172：Raycast 推出官方扩展商店](https://huhuhang.com/post/product-hunt/product-hunt-n172?from=github)
-- [Apps 精选 N171：简悦 API 2.0](https://huhuhang.com/post/product-hunt/product-hunt-n171?from=github)<!-- BLOG:END -->
+- [Apps 精选 N172：Raycast 推出官方扩展商店](https://huhuhang.com/post/product-hunt/product-hunt-n172?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
