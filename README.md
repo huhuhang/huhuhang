@@ -22,9 +22,11 @@ JavaScript   1 hr 1 min      ███░░░░░░░░░░░░░░
 ### Courses 🔗
 
 <!-- SYL:START -->
-- [1 个实验学会线性回归](https://lanqiao.cn/courses/4855)
-- [AWS Lambda 开发企业微信消息机器人](https://lanqiao.cn/courses/2868)
-- [FAST.AI 深度学习实践课程](https://lanqiao.cn/courses/1445)
+- [蓝桥杯一战通关班（Python 组）](https://www.lanqiao.cn/courses/5494/)
+- [蓝桥杯一战通关班（Java 大学 B 组）](https://www.lanqiao.cn/courses/5493/)
+- [蓝桥杯一战通关班（Java 大学 A 组）](https://www.lanqiao.cn/courses/5492/)
+- [蓝桥杯一战通关班（C&amp;C++ 大学 C 组）](https://www.lanqiao.cn/courses/5491/)
+- [蓝桥杯一战通关班（Java 大学 C 组）](https://www.lanqiao.cn/courses/5486/)
 <!-- SYL:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
