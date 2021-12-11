@@ -22,11 +22,11 @@ Python       2 mins          ░░░░░░░░░░░░░░░░░
 ### Courses 🔗
 
 <!-- SYL:START -->
+- [第十三届蓝桥杯模拟赛 1 期真题解析（本科组）](https://www.lanqiao.cn/courses/5719/)
+- [第十三届蓝桥杯模拟赛 1 期真题解析（高职组）](https://www.lanqiao.cn/courses/5718/)
 - [蓝桥杯一战通关班（Python 组）](https://www.lanqiao.cn/courses/5494/)
 - [蓝桥杯一战通关班（Java 大学 B 组）](https://www.lanqiao.cn/courses/5493/)
 - [蓝桥杯一战通关班（Java 大学 A 组）](https://www.lanqiao.cn/courses/5492/)
-- [蓝桥杯一战通关班（C&amp;C++ 大学 C 组）](https://www.lanqiao.cn/courses/5491/)
-- [蓝桥杯一战通关班（Java 大学 C 组）](https://www.lanqiao.cn/courses/5486/)
 <!-- SYL:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
