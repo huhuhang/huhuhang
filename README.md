@@ -14,9 +14,9 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 ### Articles 📝
 
 <!-- BLOG:START -->
-- [Apps 精选 N174：Pixelmator Pro 2.3](https://huhuhang.com/post/product-hunt/product-hunt-n174?from=github)
-- [Apps 精选 N173：Quit All](https://huhuhang.com/post/product-hunt/product-hunt-n173?from=github)
-- [Apps 精选 N172：Raycast 推出官方扩展商店](https://huhuhang.com/post/product-hunt/product-hunt-n172?from=github)<!-- BLOG:END -->
+- [Shortery：Mac 快捷指令自动化](https://huhuhang.com/post/product-hunt/product-hunt-n249?from=github)
+- [Pixelmator Pro 2.3：AI 背景去除](https://huhuhang.com/post/product-hunt/product-hunt-n248?from=github)
+- [Quit All：一键退出应用程序](https://huhuhang.com/post/product-hunt/product-hunt-n247?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
