@@ -14,9 +14,9 @@ JavaScript   3 mins          ░░░░░░░░░░░░░░░░░
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [Pixelmator Photo 2.0: 桌面级功能并适配 iPhone](https://huhuhang.com/post/product-hunt/product-hunt-n250?from=github)
 - [Shortery：Mac 快捷指令自动化](https://huhuhang.com/post/product-hunt/product-hunt-n249?from=github)
-- [Pixelmator Pro 2.3：AI 背景去除](https://huhuhang.com/post/product-hunt/product-hunt-n248?from=github)
-- [Quit All：一键退出应用程序](https://huhuhang.com/post/product-hunt/product-hunt-n247?from=github)<!-- BLOG:END -->
+- [Pixelmator Pro 2.3：AI 背景去除](https://huhuhang.com/post/product-hunt/product-hunt-n248?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
