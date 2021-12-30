@@ -14,9 +14,9 @@ YAML       2 mins          ░░░░░░░░░░░░░░░░░�
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)
 - [印象时间：印象笔记出品的时间管理应用](https://huhuhang.com/post/product-hunt/product-hunt-n251?from=github)
-- [Pixelmator Photo 2.0: 桌面级功能并适配 iPhone](https://huhuhang.com/post/product-hunt/product-hunt-n250?from=github)
-- [Shortery：Mac 快捷指令自动化](https://huhuhang.com/post/product-hunt/product-hunt-n249?from=github)<!-- BLOG:END -->
+- [Pixelmator Photo 2.0: 桌面级功能并适配 iPhone](https://huhuhang.com/post/product-hunt/product-hunt-n250?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
