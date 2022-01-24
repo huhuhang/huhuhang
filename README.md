@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 min           ████████████████▓░░░░░░░░   66.36 % 
+
 ```
 <!--END_SECTION:waka-->
 
