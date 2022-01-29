@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+sh         2 mins          ████████████████████████▒   97.09 % 
 ```
 <!--END_SECTION:waka-->
 
