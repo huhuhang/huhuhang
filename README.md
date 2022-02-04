@@ -19,11 +19,11 @@ Python   1 min           ██████████░░░░░░░░�
 ### Courses 🔗
 
 <!-- SYL:START -->
+- [AWS Lambda 开发企业微信消息机器人 [会员课]](https://www.lanqiao.cn/courses/2868/)
 - [第十三届蓝桥杯模拟赛 2 期真题解析（高职组）](https://www.lanqiao.cn/courses/7616/)
 - [第十三届蓝桥杯模拟赛 2 期真题解析（本科组）](https://www.lanqiao.cn/courses/7615/)
 - [第十三届蓝桥杯模拟赛 1 期真题解析（本科组）](https://www.lanqiao.cn/courses/5719/)
 - [第十三届蓝桥杯模拟赛 1 期真题解析（高职组）](https://www.lanqiao.cn/courses/5718/)
-- [蓝桥杯一战通关班（Python 组）](https://www.lanqiao.cn/courses/5494/)
 <!-- SYL:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
