@@ -12,9 +12,9 @@ Python   1 min           ██████████░░░░░░░░�
 ### Articles 📝
 
 <!-- BLOG:START -->
+- [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)
 - [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)
-- [印象时间：印象笔记出品的时间管理应用](https://huhuhang.com/post/product-hunt/product-hunt-n251?from=github)
-- [Pixelmator Photo 2.0: 桌面级功能并适配 iPhone](https://huhuhang.com/post/product-hunt/product-hunt-n250?from=github)<!-- BLOG:END -->
+- [印象时间：印象笔记出品的时间管理应用](https://huhuhang.com/post/product-hunt/product-hunt-n251?from=github)<!-- BLOG:END -->
 
 ### Courses 🔗
 
