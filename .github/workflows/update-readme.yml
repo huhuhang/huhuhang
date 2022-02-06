@@ -20,6 +20,7 @@ jobs:
         with:
           comment_tag_name: SYL
           max_post_count: "5"
+          disable_sort: true
           feed_list: "https://rss.huhuhang.vercel.app/lanqiao/author/1701267"
   update-readme:
     name: Update this repo's README
