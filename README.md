@@ -1,6 +1,6 @@
 ## Hi there, I'm Hang. 👋
 
-### Coding 👨🏻‍💻
+### 编码
 
 <!--START_SECTION:waka-->
 ```text
@@ -11,14 +11,14 @@ YAML         1 min           ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### Articles 📝
+### 文章
 
 <!-- BLOG:START -->
 - [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)
 - [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)
 - [印象时间：印象笔记出品的时间管理应用](https://huhuhang.com/post/product-hunt/product-hunt-n251?from=github)<!-- BLOG:END -->
 
-### Courses 🔗
+### 课程
 
 <!-- SYL:START -->
 - [第十三届蓝桥杯模拟赛 2 期真题解析（高职组）](https://www.lanqiao.cn/courses/7616/)
