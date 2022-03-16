@@ -13,9 +13,9 @@ Other        6 hrs 17 mins   ████████████████▓
 ### 文章
 
 <!-- BLOG:START -->
+- [疫情来袭，手把手教你在家制作美味炒鸡](https://huhuhang.com/post/sspai/72081?from=github)
 - [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)
-- [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)
-- [印象时间：印象笔记出品的时间管理应用](https://huhuhang.com/post/product-hunt/product-hunt-n251?from=github)<!-- BLOG:END -->
+- [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)<!-- BLOG:END -->
 
 ### 课程
 
