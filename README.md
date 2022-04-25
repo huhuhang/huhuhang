@@ -20,11 +20,11 @@ Other        8 hrs           ██████████████▒░░
 ### 课程
 
 <!-- SYL:START -->
-- [第十三届蓝桥杯模拟赛 2 期真题解析（高职组）](https://www.lanqiao.cn/courses/7616/)
-- [第十三届蓝桥杯模拟赛 2 期真题解析（本科组）](https://www.lanqiao.cn/courses/7615/)
-- [第十三届蓝桥杯模拟赛 1 期真题解析（本科组）](https://www.lanqiao.cn/courses/5719/)
-- [第十三届蓝桥杯模拟赛 1 期真题解析（高职组）](https://www.lanqiao.cn/courses/5718/)
-- [蓝桥杯一战通关班（Python 组）](https://www.lanqiao.cn/courses/5494/)
+- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
+- [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥 IT 人才培养项目：软件测试](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥 IT 人才培养项目：Web 应用开发](https://www.lanqiao.cn/courses/9116/)
 <!-- SYL:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
