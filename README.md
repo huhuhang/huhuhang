@@ -13,9 +13,9 @@ Other        7 hrs           █████████████████
 ### 文章
 
 <!-- BLOG:START -->
+- [不是程序员也可以搞开发，一小时入门 Retool 低代码](https://huhuhang.com/post/sspai/73013?from=github)
 - [疫情来袭，手把手教你在家制作美味炒鸡](https://huhuhang.com/post/sspai/72081?from=github)
-- [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)
-- [基于 Cloudflare Workers 部署的 JSON Database 数据库](https://huhuhang.com/post/coding/cloudflare-workers-jsonbase?from=github)<!-- BLOG:END -->
+- [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)<!-- BLOG:END -->
 
 ### 课程
 
