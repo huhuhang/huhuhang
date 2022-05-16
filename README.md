@@ -20,7 +20,7 @@ Other        7 hrs           ████████████████░
 ### 课程
 
 <!-- SYL:START -->
-- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥 IT 人才培养项目：系统运维 [楼+]](https://www.lanqiao.cn/courses/9120/)
 - [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
 - [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
 - [蓝桥 IT 人才培养项目：软件测试](https://www.lanqiao.cn/courses/9117/)
