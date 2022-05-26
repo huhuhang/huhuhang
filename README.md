@@ -10,6 +10,8 @@ Other        5 hrs           ████████████▓░░░░
 
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huhuhang&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 ### 文章
 
 <!-- BLOG:START -->
