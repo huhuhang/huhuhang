@@ -15,9 +15,9 @@ Other      39 hrs 36 mins  █████████████████�
 ### 文章
 
 <!-- BLOG:START -->
+- [《认知觉醒》之触动学习法](https://huhuhang.com/post/reading/cognitive_awakening?from=github)
 - [不是程序员也可以搞开发，一小时入门 Retool 低代码](https://huhuhang.com/post/sspai/73013?from=github)
-- [疫情来袭，手把手教你在家制作美味炒鸡](https://huhuhang.com/post/sspai/72081?from=github)
-- [企业微信机器人 Webhook 推送语雀更新消息](https://huhuhang.com/post/coding/yuque-wecom-bot?from=github)<!-- BLOG:END -->
+- [疫情来袭，手把手教你在家制作美味炒鸡](https://huhuhang.com/post/sspai/72081?from=github)<!-- BLOG:END -->
 
 ### 课程
 
