@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         2 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 %
-Markdown     2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Other        2 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
+Other        3 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.00 %
 ```
 
 <!--END_SECTION:waka-->
