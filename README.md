@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other      4 hrs           ████████████████████████░   96.35 %
+Other      3 hrs           ███████████████████▒░░░░░   76.97 %
 ```
 
 <!--END_SECTION:waka-->
