@@ -23,10 +23,10 @@ Other        15 hrs 36 mins  ██████████████▓░░
 
 <!-- SYL:START -->
 - [新一代构建工具 Vite](https://www.lanqiao.cn/courses/9508/)
-- [蓝桥 IT 人才培养项目：系统运维 [楼+]](https://www.lanqiao.cn/courses/9120/)
-- [蓝桥 IT 人才培养项目：大数据开发 [楼+]](https://www.lanqiao.cn/courses/9119/)
-- [蓝桥 IT 人才培养项目：Python 开发 [楼+]](https://www.lanqiao.cn/courses/9118/)
-- [蓝桥 IT 人才培养项目：软件测试 [楼+]](https://www.lanqiao.cn/courses/9117/)
+- [蓝桥 IT 人才培养项目：系统运维](https://www.lanqiao.cn/courses/9120/)
+- [蓝桥 IT 人才培养项目：大数据开发](https://www.lanqiao.cn/courses/9119/)
+- [蓝桥 IT 人才培养项目：Python 开发](https://www.lanqiao.cn/courses/9118/)
+- [蓝桥 IT 人才培养项目：软件测试](https://www.lanqiao.cn/courses/9117/)
 <!-- SYL:END -->
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
