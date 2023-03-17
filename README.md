@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-MDX          2 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
-Other        2 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+Other        2 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.05 %
 ```
 
 <!--END_SECTION:waka-->
