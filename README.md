@@ -1,6 +1,6 @@
 ## Hi there, I'm Hang. 👋
 
-### 编码
+### Coding
 
 <!--START_SECTION:waka-->
 
@@ -13,7 +13,5 @@ YAML         5 mins          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huhuhang&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
