@@ -13,8 +13,3 @@ Bash         49 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-🎉 Check My [Coding Calendar](https://github-chart-huhuhang.vercel.app/huhuhang).
-
-##### ✓ Automatically updated by [GitHub Action](https://github.com/huhuhang/huhuhang/actions).
-
