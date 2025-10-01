@@ -1,6 +1,4 @@
-## Hi there, I'm Hang. 👋
-
-### Coding
+> *Hi there, I'm Hang. 👋*
 
 <!--START_SECTION:waka-->
 
