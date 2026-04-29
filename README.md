@@ -1,9 +1,7 @@
 > *Hi there, I'm Hang. 👋*
 
-<!--START_SECTION:waka-->
+I'm an hobbyist iOS developer. I like developing apps based on my own interests and needs.
 
-```txt
-No activity tracked
-```
+I'm a machine learning enthusiast and enjoy learning new things.
 
-<!--END_SECTION:waka-->
+I currently live in Chengdu, a city full of pandas. 🐼
