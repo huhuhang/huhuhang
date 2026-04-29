@@ -6,4 +6,4 @@ I enjoy building apps around my own interests and needs, and I’m particularly 
 
 Outside of work, I’m a husband and father. My wife and children mean a great deal to me.
 
-I’m based in Chengdu, a city known for its pandas 🐼
+I’m based in Chengdu recently, a city known for its pandas 🐼
